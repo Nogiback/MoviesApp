@@ -1,0 +1,58 @@
+﻿<!-- TODO: Ensure strong typing is used -->
+
+<!-- Name: Peter Do -->
+<!-- Student ID: 9086580 -->
+
+@model IEnumerable<MoviesApp.Models.Movie>
+
+@{
+    ViewData["Title"] = "Movies List";
+}
+
+<h2 class="text-center text-white bg-primary p-3 my-3">Top Box Office</h2>
+
+<!-- TODO: Add "Add New Movie" button -->
+<!-- TODO: Add "Add Edit Movie" button -->
+<!-- TODO: Add "Add Delete Movie" button -->
+<!-- TODO: Make each image clickable to open Details page -->
+<!-- TODO: Ensure strong typing is used -->
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark text-center">
+        <tr>
+            <th>Title</th>
+            <th>Release Date</th>
+            <th>Genre</th>
+            <th>Poster</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr class="text-center">
+                <td>@movie.Title</td>
+                <td>@movie.ReleaseYear</td>
+                <td>@movie.Genre</td>
+                <!-- TODO: Make this image a link to /Movie/GetById/id -->
+                <td>
+                    <a asp-controller="Movie" asp-action="GetById" asp-route-id="@movie.Id">
+                        <img src="@movie.ImgUrl" style="width:80px" />
+                    </a>
+                </td>
+                <td>
+                    <div class="btn-group" role="group">
+                        <a asp-controller="Movie" asp-action="Edit" asp-route-id="@movie.Id" class="btn btn-sm btn-warning">
+                            Edit
+                        </a>
+                        <a asp-controller="Movie" asp-action="Delete" asp-route-id="@movie.Id" class="btn btn-sm btn-danger">
+                            Delete
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <a asp-controller="Movie" asp-action="Add" class="btn btn-success my-3">Add New Movie</a>
+</table>

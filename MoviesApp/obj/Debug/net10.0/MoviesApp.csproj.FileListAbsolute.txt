@@ -1,0 +1,410 @@
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/appsettings.Development.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/appsettings.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.staticwebassets.runtime.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.staticwebassets.endpoints.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.exe
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.deps.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.runtimeconfig.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.dll
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.pdb
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/rpswa.dswa.cache.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.AssemblyInfoInputs.cache
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.AssemblyInfo.cs
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.csproj.CoreCompileInputs.cache
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.RazorAssemblyInfo.cache
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.RazorAssemblyInfo.cs
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/rjimswa.dswa.cache.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/bundle/MoviesApp.styles.css
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/projectbundle/MoviesApp.bundle.scp.css
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/r4ptxm56m4-{0}-b9sayid5wm-b9sayid5wm.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ygchl1lxjv-{0}-61n19gt1b8-61n19gt1b8.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1kx8zgm3iv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4h99tymd0l-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/l3lw762smh-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/sq48baujc4-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/vycp2aox52-{0}-aexeepp0ev-aexeepp0ev.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/idf8u7rpab-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8pktgewx7n-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hzh0jph6ft-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/5q2nwaadub-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4vk817vd21-{0}-ub07r2b239-ub07r2b239.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8f85nf3vut-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/r10jco4l8y-{0}-b7pk76d08c-b7pk76d08c.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/funil43enc-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/bacehf6467-{0}-rzd6atqjts-rzd6atqjts.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ljacrxjf4g-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hpox7nzv5h-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/0aw5e68ptr-{0}-jd9uben2k1-jd9uben2k1.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/u2e1tp1avb-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1bb82hjrmc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/lnr2j71e8m-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ye83vvwv17-{0}-c2oey78nd0-c2oey78nd0.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/osh6fjexxs-{0}-tdbxkamptv-tdbxkamptv.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/3isrk9nsvx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/di07khu8km-{0}-06098lyss8-06098lyss8.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/tibxwfdphh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/labwviglz9-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6jy55o4bkg-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/738047cevp-{0}-46ein0sx1k-46ein0sx1k.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/lxgdavc69s-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/axi5cllgcu-{0}-37tfw0ft22-37tfw0ft22.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/nia3wvjiza-{0}-hrwsygsryq-hrwsygsryq.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/zdjvmgh75v-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6zbmcthwiu-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/cgdiptuir0-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/11f91ntzic-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/59euwlycet-{0}-493y06b0oq-493y06b0oq.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/igmhhntae1-{0}-iovd86k7lj-iovd86k7lj.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/9w2j898xc1-{0}-vr1egmr9el-vr1egmr9el.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/i20gtyb3vf-{0}-kbrnm935zg-kbrnm935zg.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/yzg8pb7wtq-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/58mrhaf1si-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/fn5per8w44-{0}-notf2xhcfb-notf2xhcfb.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/swab7ct6em-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/cdyfgw2ojn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/oqjih7z6qh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/5qz94dp1a6-{0}-47otxtyo56-47otxtyo56.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/yu81u33bv5-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/7q94fwj2r7-{0}-356vix0kms-356vix0kms.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/9v9cv26tgh-{0}-83jwlth58m-83jwlth58m.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/rg9rqm7c2y-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/06iwp1uwx1-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/qb5enm9rof-{0}-ag7o75518u-ag7o75518u.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4gvt41uf2t-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8lolbkyuux-{0}-0i3buxo5is-0i3buxo5is.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/7xck9e51wx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ofacy19ypf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hizsbbwgqo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6848xztwxa-{0}-muycvpuwrr-muycvpuwrr.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/oc8vv7qzva-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1lnhx1p36t-{0}-mlv21k5csn-mlv21k5csn.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/i02vw5p69s-{0}-idl9rd2vkg-idl9rd2vkg.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/mk63gu1qkf-{0}-idl9rd2vkg-idl9rd2vkg.gz
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.json.cache
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.development.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/swae.build.ex.cache
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.dll
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/refint/MoviesApp.dll
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.pdb
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.genruntimeconfig.cache
+E:/ASP Core/Lab/Week2/MoviesApp/MoviesApp/MoviesApp/obj/Debug/net10.0/ref/MoviesApp.dll
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/appsettings.Development.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/appsettings.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.staticwebassets.endpoints.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.staticwebassets.runtime.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.exe
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.deps.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.runtimeconfig.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.dll
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.pdb
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/rpswa.dswa.cache.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.AssemblyInfoInputs.cache
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.AssemblyInfo.cs
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.csproj.CoreCompileInputs.cache
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.RazorAssemblyInfo.cache
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.RazorAssemblyInfo.cs
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/rjimswa.dswa.cache.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/bundle/MoviesApp.styles.css
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/projectbundle/MoviesApp.bundle.scp.css
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/r4ptxm56m4-{0}-b9sayid5wm-b9sayid5wm.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ygchl1lxjv-{0}-61n19gt1b8-61n19gt1b8.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1kx8zgm3iv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4h99tymd0l-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/l3lw762smh-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/sq48baujc4-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/vycp2aox52-{0}-aexeepp0ev-aexeepp0ev.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/idf8u7rpab-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8pktgewx7n-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hzh0jph6ft-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/5q2nwaadub-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4vk817vd21-{0}-ub07r2b239-ub07r2b239.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8f85nf3vut-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/r10jco4l8y-{0}-b7pk76d08c-b7pk76d08c.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/funil43enc-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/bacehf6467-{0}-rzd6atqjts-rzd6atqjts.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ljacrxjf4g-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hpox7nzv5h-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/0aw5e68ptr-{0}-jd9uben2k1-jd9uben2k1.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/u2e1tp1avb-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1bb82hjrmc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/lnr2j71e8m-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ye83vvwv17-{0}-c2oey78nd0-c2oey78nd0.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/osh6fjexxs-{0}-tdbxkamptv-tdbxkamptv.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/3isrk9nsvx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/di07khu8km-{0}-06098lyss8-06098lyss8.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/tibxwfdphh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/labwviglz9-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6jy55o4bkg-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/738047cevp-{0}-46ein0sx1k-46ein0sx1k.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/lxgdavc69s-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/axi5cllgcu-{0}-37tfw0ft22-37tfw0ft22.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/nia3wvjiza-{0}-hrwsygsryq-hrwsygsryq.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/zdjvmgh75v-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6zbmcthwiu-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/cgdiptuir0-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/11f91ntzic-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/59euwlycet-{0}-493y06b0oq-493y06b0oq.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/igmhhntae1-{0}-iovd86k7lj-iovd86k7lj.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/9w2j898xc1-{0}-vr1egmr9el-vr1egmr9el.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/i20gtyb3vf-{0}-kbrnm935zg-kbrnm935zg.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/yzg8pb7wtq-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/58mrhaf1si-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/fn5per8w44-{0}-notf2xhcfb-notf2xhcfb.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/swab7ct6em-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/cdyfgw2ojn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/oqjih7z6qh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/5qz94dp1a6-{0}-47otxtyo56-47otxtyo56.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/yu81u33bv5-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/7q94fwj2r7-{0}-356vix0kms-356vix0kms.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/9v9cv26tgh-{0}-83jwlth58m-83jwlth58m.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/rg9rqm7c2y-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/06iwp1uwx1-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/qb5enm9rof-{0}-ag7o75518u-ag7o75518u.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4gvt41uf2t-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8lolbkyuux-{0}-0i3buxo5is-0i3buxo5is.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/7xck9e51wx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ofacy19ypf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hizsbbwgqo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6848xztwxa-{0}-muycvpuwrr-muycvpuwrr.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/oc8vv7qzva-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1lnhx1p36t-{0}-mlv21k5csn-mlv21k5csn.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/i02vw5p69s-{0}-idl9rd2vkg-idl9rd2vkg.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/mk63gu1qkf-{0}-idl9rd2vkg-idl9rd2vkg.gz
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.json.cache
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.development.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/swae.build.ex.cache
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.dll
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/refint/MoviesApp.dll
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.pdb
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.genruntimeconfig.cache
+E:/ASP Core/Mid Term/MoviesApp/MoviesApp/obj/Debug/net10.0/ref/MoviesApp.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/appsettings.Development.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/appsettings.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.staticwebassets.runtime.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.staticwebassets.endpoints.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.deps.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.runtimeconfig.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/MoviesApp.pdb
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Humanizer.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.Data.Sqlite.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/SQLitePCLRaw.batteries_v2.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/SQLitePCLRaw.core.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/System.CodeDom.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-riscv64/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.csproj.AssemblyReference.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.AssemblyInfoInputs.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.AssemblyInfo.cs
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.csproj.CoreCompileInputs.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.RazorAssemblyInfo.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.RazorAssemblyInfo.cs
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/bundle/MoviesApp.styles.css
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/scopedcss/projectbundle/MoviesApp.bundle.scp.css
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/r4ptxm56m4-{0}-b9sayid5wm-b9sayid5wm.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ygchl1lxjv-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1kx8zgm3iv-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4h99tymd0l-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/l3lw762smh-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/sq48baujc4-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/vycp2aox52-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/idf8u7rpab-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8pktgewx7n-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hzh0jph6ft-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/5q2nwaadub-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4vk817vd21-{0}-ub07r2b239-ub07r2b239.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8f85nf3vut-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/r10jco4l8y-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/funil43enc-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/bacehf6467-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ljacrxjf4g-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hpox7nzv5h-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/0aw5e68ptr-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/u2e1tp1avb-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1bb82hjrmc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/lnr2j71e8m-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ye83vvwv17-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/osh6fjexxs-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/3isrk9nsvx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/di07khu8km-{0}-06098lyss8-06098lyss8.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/tibxwfdphh-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/labwviglz9-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6jy55o4bkg-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/738047cevp-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/lxgdavc69s-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/axi5cllgcu-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/nia3wvjiza-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/zdjvmgh75v-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6zbmcthwiu-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/cgdiptuir0-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/11f91ntzic-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/59euwlycet-{0}-493y06b0oq-493y06b0oq.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/igmhhntae1-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/9w2j898xc1-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/i20gtyb3vf-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/yzg8pb7wtq-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/58mrhaf1si-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/fn5per8w44-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/swab7ct6em-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/cdyfgw2ojn-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/oqjih7z6qh-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/5qz94dp1a6-{0}-47otxtyo56-47otxtyo56.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/yu81u33bv5-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/7q94fwj2r7-{0}-356vix0kms-356vix0kms.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/9v9cv26tgh-{0}-83jwlth58m-83jwlth58m.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/rg9rqm7c2y-{0}-mrlpezrjn3-mrlpezrjn3.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/06iwp1uwx1-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/qb5enm9rof-{0}-ag7o75518u-ag7o75518u.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/4gvt41uf2t-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/8lolbkyuux-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/7xck9e51wx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/ofacy19ypf-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/hizsbbwgqo-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/6848xztwxa-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/oc8vv7qzva-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/1lnhx1p36t-{0}-mlv21k5csn-mlv21k5csn.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/i02vw5p69s-{0}-1nru5t6mcm-1nru5t6mcm.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/compressed/mk63gu1qkf-{0}-1nru5t6mcm-1nru5t6mcm.gz
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.development.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/swae.build.ex.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.csproj.Up2Date
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/refint/MoviesApp.dll
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.pdb
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/MoviesApp.genruntimeconfig.cache
+/Users/nogiback/Downloads/MoviesApp/MoviesApp/obj/Debug/net10.0/ref/MoviesApp.dll

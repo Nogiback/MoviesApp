@@ -1,0 +1,61 @@
+@model MoviesApp.Models.Movie
+
+@{
+    ViewData["Title"] = "Edit Movie";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-warning">
+                    <h4>Edit Movie</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Edit" method="post">
+                        <input type="hidden" asp-for="Id" />
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label"></label>
+                            <input asp-for="Title" class="form-control" />
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                          <label asp-for="Genre" class="form-label"></label>
+                          <select asp-for="Genre" class="form-select">
+                              <option value="">-- Select Genre --</option>
+                              <option value="Action" asp-selected="@(Model.Genre == "Action")">Action</option>
+                              <option value="Comedy" asp-selected="@(Model.Genre == "Comedy")">Comedy</option>
+                              <option value="Drama" asp-selected="@(Model.Genre == "Drama")">Drama</option>
+                              <option value="Horror" asp-selected="@(Model.Genre == "Horror")">Horror</option>
+                              <option value="SciFi" asp-selected="@(Model.Genre == "SciFi")">Sci-Fi</option>
+                          </select>
+                          <span asp-validation-for="Genre" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ReleaseYear" class="form-label"></label>
+                            <input asp-for="ReleaseYear" class="form-control" />
+                            <span asp-validation-for="ReleaseYear" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ImgUrl" class="form-label"></label>
+                            <input asp-for="ImgUrl" class="form-control" />
+                            <span asp-validation-for="ImgUrl" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <button type="submit" class="btn btn-warning">Save Changes</button>
+                            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

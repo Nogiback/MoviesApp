@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP Core\\Mid Term\\MoviesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|e:\\asp core\\mid term\\moviesapp\\moviesapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|e:\\asp core\\mid term\\moviesapp\\moviesapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|e:\\asp core\\mid term\\moviesapp\\moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|e:\\asp core\\mid term\\moviesapp\\moviesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E532720-0870-2942-A4E3-EE97CDE6AE47}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 427,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MoviesApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MoviesApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T15:29:57.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Models\\Movie.cs",
+              "ToolTip": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MoviesApp\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:10:33.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoviesApp\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "MoviesApp\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T14:55:12.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Controllers\\MovieController.cs",
+              "ToolTip": "E:\\ASP Core\\Mid Term\\MoviesApp\\MoviesApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MoviesApp\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:34:52.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
